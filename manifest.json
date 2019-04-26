@@ -1,0 +1,23 @@
+{
+  "name": "PWA Sample Project",
+  "short_name": "PWA-Sample",
+  "description": "This is my PWA Sample Project",
+  "Scope": "/",
+  "start_url": "/",
+  "splash_pages": null,
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/images/logo-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
